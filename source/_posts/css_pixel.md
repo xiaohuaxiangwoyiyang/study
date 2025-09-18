@@ -1,3 +1,6 @@
+---
+title: 物理像素 vs CSS像素
+---
 #### 1. 物理像素 (Physical Pixels)：这是屏幕硬件上真实的发光点。13英寸MacBook Pro的屏幕物理分辨率是 2560 x 1600 个物理像素。
 
 #### 2. CSS像素 (Logical Pixels)：这是Web开发中我们使用的抽象单位。我们在CSS中写的 width: 100px; 指的是100个CSS像素。
